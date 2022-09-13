@@ -1,0 +1,12 @@
+com\yruns\config\SpringMvcConfig.class
+com\yruns\pojo\Address.class
+com\yruns\service\UserService.class
+com\yruns\controller\NewUserController.class
+com\yruns\controller\UserController.class
+com\yruns\service\impl\UserServiceImpl.class
+com\yruns\controller\RESTController.class
+com\yruns\pojo\User.class
+com\yruns\dao\UserDao.class
+App.class
+com\yruns\config\SpringConfig.class
+com\yruns\config\ServletContainerInitConfig.class
